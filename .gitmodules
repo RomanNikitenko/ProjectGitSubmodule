@@ -1,3 +1,6 @@
 [submodule "Repo_For_Test"]
 	path = Repo_For_Test
 	url = git://github.com/artaleks9/Repo_For_Test.git
+[submodule "testRepo-1"]
+	path = testRepo-1
+	url = git://github.com/artaleks9/testRepo-1.git
